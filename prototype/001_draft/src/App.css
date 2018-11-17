@@ -1,3 +1,13 @@
+body>header{
+  height: 5vh;
+  width: 100%;
+  background: gray;
+}
+body>footer{
+  height: 5vh;
+  width: 100%;
+  background: #222;
+}
 .App {
   text-align: center;
 }
