@@ -1,6 +1,6 @@
 {
   "name": "001_draft",
-  "homepage": "/prototype/001_draft",
+  "homepage": "/prototype/001_draft/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
